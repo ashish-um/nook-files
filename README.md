@@ -2,6 +2,11 @@
 
 > A companion package to `nook` for storing binary files (images, audio, video) in Google Drive's `appDataFolder`.
 
+## 📚 Documentation
+
+- [Official Documentation](./nook-files-documentation.md) — Comprehensive API reference, configuration options, and advanced examples.
+- [React & Next.js Guide](./react-nextjs-guide.md) — Beginner-friendly guide on handling OAuth implicit flows, `"use client"`, memory leak prevention, and building UI uploaders.
+
 While `@ashish-um/nook` is perfect for JSON storage, `nook-files` is designed specifically for raw binary data. It uses the same authentication pattern and same `appDataFolder` isolation, but preserves binary integrity and supports granular upload progress tracking for large files.
 
 ## Installation

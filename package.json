@@ -29,6 +29,9 @@
   ],
   "author": "ashish-um",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ashish-um/nook-files"
